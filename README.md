@@ -9,7 +9,7 @@ A simple and elegant ToDo application for iOS built using **SwiftUI** and the **
 - 📋 Create, read, update, and delete tasks
 - 🧠 MVVM architecture for scalable code
 - 🖼 Clean SwiftUI layout and reactive bindings
-- 💾 Local persistence using `UserDefaults` or `@AppStorage` *(optional)*
+- 💾 Local persistence using `UserDefaults` 
 - 📱 Adaptive layout for iPhone/iPad
 
 ---
